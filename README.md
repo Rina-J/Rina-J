@@ -1,4 +1,13 @@
-### Hi there 👋'
+<div align=center>
+     <h3>👋 Hi there! I'm a full stack web developer ready to flourish! 🚀 <br /></h3>
+      I genuinely love traveling! ✈👍<br />
+      I enjoy swimming, jogging and more ⛰🏄🚴‍♂🚴‍✨<br />
+      I hope to develop every beautiful thing 💖
+   
+
+</div>
+
+
 <div align=center><h1>👀 CONTACT ME 👀</h1></div>
 
 <div align=center>  
@@ -7,6 +16,8 @@
   
    ✨  **Rina's instagram ...** [![Instagram Badge](http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/cya_tmrw/)](https://instagram.com/cya_tmrw)
 </div>
+
+<br /><br />
 
 <div align=center><h1>📚 STUDY 📚</h1></div>
 
