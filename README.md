@@ -1,7 +1,20 @@
 ### Hi there 👋'
+<div align=center><h1>👀 CONTACT ME 👀</h1></div>
 
+<div align=center>
+  <a href="https://instagram.com/cya_tmrw">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/cya_tmrw/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a> 
+  <a href="mailto:wao8387@gmail.com">
+    <img 
+        src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:wao8387@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+</div>
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>📚 STUDY 📚</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
