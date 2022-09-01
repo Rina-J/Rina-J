@@ -2,7 +2,8 @@
 <div align=center><h1>👀 CONTACT ME 👀</h1></div>
 
 <div align=center>  
-   📫  **Rina's email ...&nbsp;**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:justdodo.j@gmail.com)](mailto:justdodo.j@gmail.com)
+
+   📫  **Rina's email ...** [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:justdodo.j@gmail.com)](mailto:justdodo.j@gmail.com)
   
    ✨  **Rina's instagram ...** [![Instagram Badge](http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/cya_tmrw/)](https://instagram.com/cya_tmrw)
 </div>
