@@ -5,6 +5,7 @@
       I hope to develop every beautiful things. 💖🍀
 </div>
 
+<br />
 
 <div align=center><h1>👀 CONTACT ME 👀</h1></div>
 
@@ -15,7 +16,7 @@
    ✨  **Rina's instagram ...** [![Instagram Badge](http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/cya_tmrw/)](https://instagram.com/cya_tmrw)
 </div>
 
-<br /><br />
+<br />
 
 <div align=center><h1>📚 STUDY 📚</h1></div>
 
