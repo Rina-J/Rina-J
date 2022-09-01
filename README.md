@@ -1,10 +1,8 @@
 <div align=center>
      <h3>👋 Hi there! I'm a full stack web developer ready to flourish! 🚀 <br /></h3>
-      I genuinely love traveling! ✈👍<br />
+      I genuinely love traveling and coffee! ✈☕<br />
       I enjoy swimming, jogging and more 🏊🏻‍♀️🏃🏻‍♀️🚴🏻‍♀️⛰✨<br />
       I hope to develop every beautiful things 💖🍀
-   
-
 </div>
 
 
