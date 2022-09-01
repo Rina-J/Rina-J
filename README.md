@@ -12,6 +12,8 @@
         src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:wao8387@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
+  
+  - 📫  **Rina's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wao8387@gmail.com)](mailto:wao8387@gmail.com)
 </div>
 
 <div align=center><h1>📚 STUDY 📚</h1></div>
