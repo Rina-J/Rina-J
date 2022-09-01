@@ -13,7 +13,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
   
-  - 📫  **Rina's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:justdodo.j@gmail.com)](mailto:justdodo.j@gmail.com)
+  - 📫  **Rina's email ... **[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:justdodo.j@gmail.com)](mailto:justdodo.j@gmail.com)
 </div>
 
 <div align=center><h1>📚 STUDY 📚</h1></div>
