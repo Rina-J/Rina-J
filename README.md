@@ -11,9 +11,9 @@
 
 <div align=center>  
 
-   📫  **Rina's email ...** [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:justdodo.j@gmail.com)](mailto:justdodo.j@gmail.com)
+   📫  **Rina's email ...** [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:justdodo.j@gmail.com)]            (mailto:justdodo.j@gmail.com)
   
-   ✨  **Rina's instagram ...** [![Instagram Badge](http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/cya_tmrw/)](https://instagram.com/cya_tmrw)
+   ✨  **Rina's instagram ...** [![Instagram Badge](http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/cya_tmrw/)]        (https://instagram.com/cya_tmrw)
 </div>
 
 <br />
@@ -50,13 +50,25 @@
   <br>
 </div>
 
-<hr />
+<br />
+<br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rina-J&layout=compact&theme=cobalt)
+<div align=center>
 
-![Rina's github stats](https://github-readme-stats.vercel.app/api?username=Rina-J&show_icons=true&theme=cobalt)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rina-J&show_icons=true&theme=buefy&hide_border=true" alt="Rina's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rina-J&layout=compact&theme=default&hide_border=true" /> |
+| ------------- | ------------- |
+</div>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRina-J&count_bg=%231F0303&title_bg=%23BBB8C6&icon=exercism.svg&icon_color=%23000000&title=hits&edge_flat=false)
+<br />
+
+<div align=center>
+       
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRina-J&count_bg=%231F0303&title_bg=%23BBB8C6&icon=exercism.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)    
+</div>
+
+
+
+
 
 
 <!--
