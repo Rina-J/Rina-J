@@ -1,3 +1,10 @@
+
+<div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20🍀&fontSize=70&fontAlignY=40)
+
+</div>
+
 <div align=center>
      <h3>👋 Hi there! I'm a full stack web developer ready to flourish! 🚀 <br /></h3>
       I genuinely love traveling and coffee! ✈☕<br />
