@@ -1,7 +1,7 @@
 <div align=center>
      <h3>👋 Hi there! I'm a full stack web developer ready to flourish! 🚀 <br /></h3>
       I genuinely love traveling and coffee! ✈☕<br />
-      I enjoy swimming, jogging and more. 🏊🏻‍♀️🏃🏻‍♀️🚴🏻‍♀️⛰🙂<br />
+      I enjoy swimming, jogging and more. 🏊🏻‍♀️🏃🏻‍♀️🚴🏻‍♀️⛰✨<br />
       I hope to develop every beautiful things. 💖🍀
 </div>
 
@@ -13,7 +13,7 @@
      
    📫  **Rina's email ...** [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:justdodo.j@gmail.com)](mailto:justdodo.j@gmail.com)
   
-   ✨  **Rina's instagram ...** [![Instagram Badge](http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/cya_tmrw/)](https://instagram.com/cya_tmrw)
+   🌏  **Rina's instagram ...** [![Instagram Badge](http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/cya_tmrw/)](https://instagram.com/cya_tmrw)
 </div>
 
 <br />
