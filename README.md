@@ -43,7 +43,10 @@
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
   <br>
   
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="http://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=Node.js">
+  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm">
+  <img src="http://img.shields.io/badge/Pug-a86454?style=for-the-badge&logo=Pug&logoColor=black">
+  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
 
@@ -71,11 +74,14 @@
 <br />
 
 <div align=center>
+   
+[![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=37.5666791&lon=126.9782914)]("https://weather-badge.vercel.app/")&nbsp;&nbsp;&nbsp;&nbsp;
+[![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=37.4290844&lon=127.255189)]("https://weather-badge.vercel.app/")
        
+<br />
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRina-J&count_bg=%231F0303&title_bg=%23BBB8C6&icon=iconify.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)    
 </div>
-
-
 
 
 
