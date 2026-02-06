@@ -58,13 +58,6 @@
   <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=Amazon%20CloudWatch&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
-
-  <br>
-
-  
   <img src="http://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=Node.js">
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm">
   <img src="http://img.shields.io/badge/Pug-a86454?style=for-the-badge&logo=Pug&logoColor=black">
