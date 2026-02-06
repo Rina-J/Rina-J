@@ -79,11 +79,11 @@
 <br />
 <br />
 
-<div align=center>
+<!-- <div align=center>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rina-J&show_icons=true&theme=buefy&hide_border=true" alt="Rina's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rina-J&layout=compact&theme=default&hide_border=true" /> |
 | ------------- | ------------- |
-</div>
+</div> -->
 
 <br />
 
@@ -94,7 +94,9 @@
        
 <br />
 
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRina-J&count_bg=%231F0303&title_bg=%23BBB8C6&icon=iconify.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)    
+-->
 </div>
 
 
