@@ -44,7 +44,7 @@
   <br>
 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> 
-  https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
 
   
   
